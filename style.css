@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+@font-face {
+    font-family: 'slkscr';
+    src: url(./font/slkscr.ttf);
+}
+
+p {
+    font-family: 'slkscr';
+    font-size: 60px;
+    margin-top: 0px;
+}
+
+canvas {
+    border: solid 1px black;
+}
+
+#small {
+    font-size: 12px;
+}
+
+#small img {
+    width: 64px;
+    height: 64px;
+}
